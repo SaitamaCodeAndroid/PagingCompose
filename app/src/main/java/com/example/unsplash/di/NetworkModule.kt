@@ -1,6 +1,6 @@
 package com.example.unsplash.di
 
-import com.example.unsplash.BuildConfig
+import com.example.splash.BuildConfig
 import com.example.unsplash.data.remote.UnsplashService
 import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
 import dagger.Module

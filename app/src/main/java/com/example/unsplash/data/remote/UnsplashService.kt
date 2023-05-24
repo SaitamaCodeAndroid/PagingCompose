@@ -1,6 +1,6 @@
 package com.example.unsplash.data.remote
 
-import com.example.unsplash.BuildConfig
+import com.example.splash.BuildConfig
 import com.example.unsplash.models.Image
 import retrofit2.http.GET
 import retrofit2.http.Headers

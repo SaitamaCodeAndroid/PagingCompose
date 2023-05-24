@@ -4,7 +4,7 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.unsplash.ui.screens.HomeScreen
+import com.example.unsplash.ui.screens.home.HomeScreen
 import com.example.unsplash.ui.screens.SearchScreen
 
 @Composable
